@@ -10,6 +10,6 @@ Hi there 👋, I’m Kenneth Waiswa
 
 📫 Reach me at wswkenneth7@hotmail.com or www.kennethwaiswa.com
 
-⚡ Fun fact: I started this jourbey because I wanted to create my own video games. I haven't succeeded yet.
+⚡ Fun fact: I started this journey because I wanted to create my own video games. I haven't succeeded yet.
 
 💬 Ask me about ... Microsoft Dynamics ERPs.
