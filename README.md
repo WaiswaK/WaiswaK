@@ -8,8 +8,8 @@ Hi there 👋, I’m Kenneth Waiswa
 
 👯 I’m looking to collaborate on ASP.NET Core, Xamarin and MAUI Projects.
 
-📫 Reach me at wswkenneth7@hotmail.com or visit www.kennethwaiswa.com for more information about me
+📫 Reach me at wswkenneth7@hotmail.com or visit www.kennethwaiswa.com for more information about me.
 
 ⚡ Fun fact: I started this journey because I wanted to create my own video games. 
 
-💬 Ask me about ... Microsoft Dynamics ERPs.
+💬 Ask me about ... Microsoft Dynamics ERPs, System Intergrations e.g EFRIS
