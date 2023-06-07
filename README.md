@@ -2,11 +2,11 @@ Hi there 👋, I’m Kenneth Waiswa
 
 👀 I’m a Software Developer.
 
-🌱 Passionate about Design, Creativity and Innovation.
+🌱 C#, Javascript and Python Developer. I also Develop solutions for Dynamics NAV using CAL.
 
-💞️ Also passionate about creating solutions using emerging technologies.
+💞️ Passionate about Design, Creativity and Innovation. I'm also passionate about creating solutions using emerging technologies.
 
-👯 I’m looking to collaborate on ASP.NET Core, Xamarin, dotnet MAUI Projects.
+👯 I’m looking to collaborate on ASP.NET Core, Xamarin and MAUI Projects.
 
 📫 Reach me at wswkenneth7@hotmail.com or www.kennethwaiswa.com
 
