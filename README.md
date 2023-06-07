@@ -2,7 +2,7 @@ Hi there 👋, I’m Kenneth Waiswa
 
 👀 I’m a Software Developer.
 
-🌱 C#, Javascript and Python Developer. I also Develop solutions for Dynamics NAV using CAL.
+🌱 C#, JavaScript and Python Developer. I also Develop solutions for Microsoft Dynamics NAV and BC using CAL.
 
 💞️ Passionate about Design, Creativity and Innovation. I'm also passionate about creating solutions using emerging technologies.
 
