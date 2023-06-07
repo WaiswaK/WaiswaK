@@ -8,7 +8,7 @@ Hi there 👋, I’m Kenneth Waiswa
 
 👯 I’m looking to collaborate on ASP.NET Core, Xamarin and MAUI Projects.
 
-📫 Reach me at wswkenneth7@hotmail.com or www.kennethwaiswa.com
+📫 Reach me at wswkenneth7@hotmail.com or visit www.kennethwaiswa.com for more information about me
 
 ⚡ Fun fact: I started this journey because I wanted to create my own video games. I haven't succeeded yet.
 
