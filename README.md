@@ -27,3 +27,16 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)
 [![MSSQL](https://img.shields.io/badge/%E2%89%A1-MSSQL-4479A1?logo=mssql&style=flat-square&labelColor=282828)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads/)
+---
+
+## Blog:pencil:
+
+I also maintain a blog related to software topics on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@waiswak)
+
+---
+
+## Github Stats:chart_with_upwards_trend:
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WaiswaK&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Waiswa's GitHub Streak Stats" />
+</a>
