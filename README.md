@@ -26,7 +26,14 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 [![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)
-[![MSSQL](https://img.shields.io/badge/%E2%89%A1-MSSQL-4479A1?logo=microsoft-sql-server&style=flat-square&labelColor=282828)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads/)
+[![C#](https://img.shields.io/badge/≡-C%23-239120?logo=c-sharp&style=flat-square&labelColor=282828)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/≡-Java-007396?logo=java&style=flat-square&labelColor=282828)](https://www.java.com/)
+[![.NET](https://img.shields.io/badge/≡-.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/)
+[![Xamarin](https://img.shields.io/badge/≡-Xamarin-3498DB?logo=xamarin&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/apps/xamarin)
+[![MAUI](https://img.shields.io/badge/≡-MAUI-0078D4?logo=.net&style=flat-square&labelColor=282828)](https://github.com/dotnet/maui)
+[![ASP.NET](https://img.shields.io/badge/≡-ASP.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/apps/aspnet)
+[![Microsoft Dynamics NAV](https://img.shields.io/badge/≡-Microsoft_Dynamics_NAV-00A1F1?logo=microsoft-dynamics&style=flat-square&labelColor=282828)](https://dynamics.microsoft.com/en-us/nav-overview/)
+
 
 ---
 
