@@ -26,7 +26,8 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 [![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)
-[![MSSQL](https://img.shields.io/badge/%E2%89%A1-MSSQL-4479A1?logo=mssql&style=flat-square&labelColor=282828)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads/)
+[![MSSQL](https://img.shields.io/badge/%E2%89%A1-MSSQL-4479A1?logo=microsoft-sql-server&style=flat-square&labelColor=282828)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads/)
+
 ---
 
 ## Blog:pencil:
