@@ -35,6 +35,7 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 [![Microsoft Dynamics NAV](https://img.shields.io/badge/≡-Microsoft_Dynamics_NAV-00A1F1?logo=microsoft-dynamics&style=flat-square&labelColor=282828)](https://dynamics.microsoft.com/en-us/nav-overview/)
 
 
+
 ---
 
 ## Blog:pencil:
