@@ -3,7 +3,7 @@
 My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 - 🌱 C#, JavaScript and Python Developer. I also Develop solutions for Microsoft Dynamics NAV and BC using CAL.
 - 💞️ Passionate about Design, Creativity and Innovation. I'm also passionate about creating solutions using emerging technologies.
-- 👯 I’m looking to collaborate on ASP.NET Core, Xamarin and MAUI Projects.
+- 👯 I’m looking to collaborate on ASP.NET Core and MAUI Projects.
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/Website-20d6fe.svg?&style=plastic"/>](https://www.kennethwaiswa.com/)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/WaiswaK)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/waiswak)
