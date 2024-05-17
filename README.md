@@ -44,7 +44,7 @@ I also maintain a blog related to software topics on [<img src="https://img.shie
 
 ---
 
-## Github Stats:chart_with_upwards_trend:
+## Github Stats:
 
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WaiswaK&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Waiswa's GitHub Streak Stats" />
