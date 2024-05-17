@@ -38,7 +38,7 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 
 ---
 
-## Blog:pencil:
+## Blog:
 
 I also maintain a blog related to software topics on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@waiswak)
 
