@@ -8,11 +8,11 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/WaiswaK)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/waiswak)
 - ⚡ Fun fact: I started this journey because I wanted to create my own video games.
-- 💬 Ask me about ... Microsoft Dynamics ERPs, System Intergrations e.g EFRIS
+- 💬 Ask me about ... Dot Net development, Microsoft Dynamics ERPs and System Integrations e.g EFRIS
 
 ---
 
-## Technologies & Tools:computer:
+## Technologies & Tools:
 
 [![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
