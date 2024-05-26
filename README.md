@@ -29,7 +29,7 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 [![C#](https://img.shields.io/badge/≡-C%23-239120?logo=c-sharp&style=flat-square&labelColor=282828)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/≡-Java-007396?logo=java&style=flat-square&labelColor=282828)](https://www.java.com/)
 [![.NET](https://img.shields.io/badge/≡-.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/)
-[![MAUI](https://img.shields.io/badge/≡-Xamarin-3498DB?logo=.net&style=flat-square&labelColor=282828)](https://github.com/dotnet/maui)
+[![MAUI](https://img.shields.io/badge/≡-MAUI-0078D4?logo=xamarin&style=flat-square&labelColor=282828)](https://github.com/dotnet/maui)
 [![ASP.NET](https://img.shields.io/badge/≡-ASP.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/apps/aspnet)
 [![Microsoft Dynamics NAV](https://img.shields.io/badge/≡-Microsoft_Dynamics_NAV-00A1F1?logo=microsoft-dynamics&style=flat-square&labelColor=282828)](https://dynamics.microsoft.com/en-us/nav-overview/)
 
