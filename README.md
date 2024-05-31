@@ -23,11 +23,7 @@ Contact:
 📫 Reach out to me at [<img src="https://img.shields.io/badge/Website-20d6fe.svg?&style=plastic"/>](https://www.kennethwaiswa.com/)
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/WaiswaK)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/waiswak)
-  
-Fun Fact:
-
-- I embarked on this journey to create my own video games.
-  
+    
 Ask Me About:
 
 - .NET development
