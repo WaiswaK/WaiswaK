@@ -10,6 +10,40 @@ My name is Kenneth Waiswa and I work as a Software Developer, I'm from Uganda.
 - ⚡ Fun fact: I started this journey because I wanted to create my own video games.
 - 💬 Ask me about ... Dot Net development, Microsoft Dynamics ERPs and System Integrations e.g EFRIS
 
+I am Kenneth Waiswa - Software Developer
+
+🌍 From Uganda
+
+Skills & Expertise:
+
+- Languages: C#, JavaScript, Python
+- Specializations: Microsoft Dynamics NAV and BC (using CAL)
+  
+Passions:
+
+- Design, creativity, and innovation
+- Creating solutions with emerging technologies
+Collaborations:
+
+- Open to collaborating on ASP.NET Core and MAUI projects
+Contact:
+
+📫 Reach out to me at [<img src="https://img.shields.io/badge/Website-20d6fe.svg?&style=plastic"/>](https://www.kennethwaiswa.com/)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/WaiswaK)
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/waiswak)
+Fun Fact:
+
+- I embarked on this journey to create my own video games.
+Ask Me About:
+
+- .NET development
+- Microsoft Dynamics ERPs
+- System integrations (e.g., EFRIS)
+
+
+
+
+
 ---
 
 ## Technologies & Tools:
