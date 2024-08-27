@@ -57,7 +57,7 @@ Ask Me About:
 
 ## Blog:
 
-I also maintain a blog related to software topics on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@waiswak)
+I also maintain a blog related to software on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@waiswak)
 
 ---
 
