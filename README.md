@@ -1,30 +1,29 @@
 # Hi there. <img src="assets/wave.gif" width="40">
 
-I am Kenneth Waiswa - Software Developer
-
+I am Kenneth Waiswa - Software Developer  
 🌍 From Uganda
 
-Skills & Expertise:
+## Skills & Expertise 🧑‍💻
 
-- Languages: C#, JavaScript, Python
-- Specializations: Microsoft Dynamics NAV and BC (using CAL)
-  
-Passions:
+- **Languages**:  
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
-- Design, creativity, and innovation
-- Creating solutions with emerging technologies
-  
-Collaborations:
+- **Specializations**:  
+  ![Microsoft Dynamics NAV](https://img.shields.io/badge/Microsoft_Dynamics_NAV-00A1F1?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)  
+  Expertise in *Microsoft Dynamics NAV* and *Business Central (BC)* (using CAL)  
 
-- Open to collaborating on ASP.NET Core and MAUI projects
-  
-Ask Me About:
+## Passions 🔥
 
-- .NET development
-- Microsoft Dynamics ERPs
-- System integrations (e.g., EFRIS)
+- **Design & Creativity**  
+- **Innovating with Emerging Technologies**  
+- **Problem-solving through Development**  
+
+## Collaborations 🤝
+
+- Open to collaborating on **ASP.NET Core** and **MAUI** projects!
 
 ---
+
 ## Tech Stack 👩‍💻  
 
 ### Languages 🌍  
@@ -36,26 +35,31 @@ Ask Me About:
 ### Databases 🗄️  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-
 ### Development Tools 🛠️  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)  
 
-### Business & ERP Solutions 📊  
-![Microsoft Dynamics NAV](https://img.shields.io/badge/Microsoft_Dynamics_NAV-00A1F1?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)  
-
-
 ---
+
 ## Blog 📖
 
-I share my thoughts, tutorials, and insights about software development on my [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
+I share my thoughts, tutorials, and insights about software development on my [Medium Blog](https://medium.com/@waiswak)  
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
 
-Feel free to explore my posts for helpful articles on various technologies, trends, and personal experiences in the software world.
+Feel free to explore my posts on various topics related to software technologies, trends, and my personal experiences in the industry.
 
 ---
 
-## GitHub Stats 🌱​
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WaiswaK&theme=transparent&hide_border=false)<br/>
+## GitHub Stats 🌱​  
+**Top Languages**  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+**Overall GitHub Stats**  
+![](https://github-readme-stats.vercel.app/api?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
+**Streak Stats**  
+![](https://nirzak-streak-stats.vercel.app/?user=WaiswaK&theme=transparent&hide_border=false)
+
+---
+
+🔗 **Let's connect**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waiswak)
