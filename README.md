@@ -47,10 +47,10 @@ Feel free to explore my posts on various topics related to software technologies
 
 ## GitHub Stats 🌱​  
 **Top Languages**  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 **Overall GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=WaiswaK&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
 
 **Streak Stats**  
 ![](https://nirzak-streak-stats.vercel.app/?user=WaiswaK&theme=transparent&hide_border=false)
