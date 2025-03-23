@@ -34,7 +34,7 @@ Ask Me About:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![MAUI](https://img.shields.io/badge/MAUI-0078D4?style=for-the-badge&logo=xamarin&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### Databases 🗄️  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ### Development Tools 🛠️  
@@ -45,10 +45,12 @@ Ask Me About:
 
 
 ---
+## Blog 📖
 
-## Blog:
+I share my thoughts, tutorials, and insights about software development on my [Medium Blog](https://medium.com/@waiswak)  
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
 
-I also maintain a blog related to software on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@waiswak)
+Feel free to explore my posts for helpful articles on various technologies, trends, and personal experiences in the software world.
 
 ---
 
