@@ -25,30 +25,24 @@ Ask Me About:
 - System integrations (e.g., EFRIS)
 
 
-
 ---
-
-## Tech Stack 👩‍💻
-
-[![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/≡-CSS3-1572B6?logo=css3&style=flat-square&logoColor=1572B6&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/≡-JavaScript-F7DF1E?logo=javascript&style=flat-square&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/javascript)  
-[![Python](https://img.shields.io/badge/≡-Python-3776AB?logo=Python&style=flat-square&labelColor=282828)](https://www.python.org/)  
-[![C](https://img.shields.io/badge/≡-C-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)  
-[![C#](https://img.shields.io/badge/≡-C%23-239120?logo=c-sharp&style=flat-square&labelColor=282828)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
-[![Java](https://img.shields.io/badge/≡-Java-007396?logo=openjdk&style=flat-square&labelColor=282828)](https://www.java.com/)  
-[![.NET](https://img.shields.io/badge/≡-.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/)  
-[![MAUI](https://img.shields.io/badge/≡-MAUI-0078D4?logo=xamarin&style=flat-square&labelColor=282828)](https://github.com/dotnet/maui)  
-[![ASP.NET](https://img.shields.io/badge/≡-ASP.NET-512BD4?logo=dot-net&style=flat-square&labelColor=282828)](https://dotnet.microsoft.com/apps/aspnet)  
-[![MySQL](https://img.shields.io/badge/≡-MySQL-4479A1?logo=mysql&style=flat-square&labelColor=282828)](https://www.mysql.com/)  
-[![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)  
-[![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)  
-[![GNU Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)  
-[![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)  
-[![Vagrant](https://img.shields.io/badge/≡-Vagrant-1563FF?logo=vagrant&style=flat-square&logoColor=1563FF&labelColor=282828)](https://www.vagrantup.com/)  
-[![VS Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)  
-[![Microsoft Dynamics NAV](https://img.shields.io/badge/≡-Microsoft_Dynamics_NAV-00A1F1?logo=microsoft-dynamics&style=flat-square&labelColor=282828)](https://dynamics.microsoft.com/en-us/nav-overview/)  
-
+## Tech Stack 👩‍💻  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![MAUI](https://img.shields.io/badge/MAUI-0078D4?style=for-the-badge&logo=xamarin&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 
 ---
