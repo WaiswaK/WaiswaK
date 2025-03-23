@@ -5,10 +5,7 @@ I am Kenneth Waiswa - Software Developer
 
 ## Skills & Expertise 🧑‍💻
 
-- **Languages**:  
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-
-- **Specializations**:  
+-**Specializations**:  
   ![Microsoft Dynamics NAV](https://img.shields.io/badge/Microsoft_Dynamics_NAV-00A1F1?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)  
   Expertise in *Microsoft Dynamics NAV* and *Business Central (BC)* (using CAL)  
 
@@ -42,8 +39,7 @@ I am Kenneth Waiswa - Software Developer
 
 ## Blog 📖
 
-I share my thoughts, tutorials, and insights about software development on my [Medium Blog](https://medium.com/@waiswak)  
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
+I share my thoughts, tutorials, and insights about software development on [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
 
 Feel free to explore my posts on various topics related to software technologies, trends, and my personal experiences in the industry.
 
@@ -61,5 +57,4 @@ Feel free to explore my posts on various topics related to software technologies
 
 ---
 
-🔗 **Let's connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waiswak)
+🔗 **Let's connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waiswak)
