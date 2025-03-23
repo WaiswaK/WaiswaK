@@ -47,8 +47,7 @@ Ask Me About:
 ---
 ## Blog 📖
 
-I share my thoughts, tutorials, and insights about software development on my [Medium Blog](https://medium.com/@waiswak)  
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
+I share my thoughts, tutorials, and insights about software development on my [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waiswak)
 
 Feel free to explore my posts for helpful articles on various technologies, trends, and personal experiences in the software world.
 
