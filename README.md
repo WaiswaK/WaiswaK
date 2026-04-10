@@ -84,7 +84,9 @@ These tools enable me to deliver production-ready applications with strong perfo
 
 🔗 http://nnumba.runasp.net
 
-* Built with **ASP.NET (.NET)**
+* Built with **C# & ASP.NET Core (.NET)**
+* Uses **Microsoft SQL Server (MSSQL)** for data management
+* Hosted on **MonsterASP.NET**
 * Manages tenants, payments, and property records
 * Designed for real-world rental operations
 
@@ -92,8 +94,6 @@ These tools enable me to deliver production-ready applications with strong perfo
 
 * Email: `demo@nnumba.dev`
 * Password: `Demo@123`
-
----
 
 ### 🛒 BlingHaven (E-commerce Platform)
 
