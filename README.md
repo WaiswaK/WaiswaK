@@ -59,6 +59,25 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 ---
 
+### ☁️ Tools & Platforms
+
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure_devops-0078D7.svg?style=for-the-badge\&logo=azure-devops\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Neon](https://img.shields.io/badge/neon-00E599.svg?style=for-the-badge\&logo=neon\&logoColor=white)
+
+I leverage modern cloud and developer tools to streamline development, deployment, and scalability:
+
+* **Vercel** – Fast frontend deployment and serverless functions
+* **Azure DevOps** – CI/CD pipelines, version control, and agile workflows
+* **Cloudflare** – DNS management, security, and performance optimization
+* **Supabase** – Backend-as-a-service (auth, real-time APIs, PostgreSQL)
+* **Neon** – Serverless PostgreSQL for scalable and efficient databases
+
+These tools enable me to deliver production-ready applications with strong performance, security, and scalability.
+
+
 ## 📂 Featured Projects
 
 ### 🏠 Nnumba – Rent Management System
