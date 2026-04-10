@@ -88,8 +88,6 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 ### 💻 macOS Portfolio
 
-🔗 https://www.kennethwaiswa.com
-
 * Built with **React + TypeScript + Vite + Tailwind CSS**
 * macOS-style interactive desktop experience
 * Mobile + desktop responsive UI
