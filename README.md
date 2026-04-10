@@ -19,7 +19,7 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 * Microsoft Dynamics NAV / Business Central (CAL)
 * Full-stack web development
-* Mobile app development (Flutter)
+* Mobile app development (Flutter, MAUI, SWIFT and Kotlin)
 * API design & database architecture
 
 ---
