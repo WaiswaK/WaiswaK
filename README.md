@@ -95,13 +95,16 @@ These tools enable me to deliver production-ready applications with strong perfo
 * Email: `demo@nnumba.dev`
 * Password: `Demo@123`
 
-### 🛒 BlingHaven (E-commerce Platform)
+### 🛒 BlingHaven – E-commerce Platform
 
 🔗 https://blinghavenug.vercel.app
 
-* **Backend:** Express + Prisma + PostgreSQL
-* **Frontend:** React + Vite
-* Includes payments (Flutterwave), admin dashboard, orders, and products
+* Built with **React (Vite) + Node.js (Express)**
+* Uses **PostgreSQL** with **Prisma ORM** for efficient data management
+* Integrated **Flutterwave** for secure online payments
+* Fully deployed on **Vercel** (frontend & backend/serverless APIs)
+* Features product management, order processing, and admin dashboard
+* Designed as a full-featured e-commerce solution with real-world transaction workflows, user authentication, and scalable architecture
 
 ---
 
