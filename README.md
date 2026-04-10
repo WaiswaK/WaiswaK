@@ -128,6 +128,8 @@ Open to collaborating on:
 ## 📖 Blog
 
 I share my thoughts here:
+
+
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?\&style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@waiswak)
 
 ---
