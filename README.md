@@ -71,8 +71,8 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 **Demo Access:**
 
-* Email: `admin@nnumba.dev`
-* Password: `Admin@123`
+* Email: `demo@nnumba.dev`
+* Password: `Demo@123`
 
 ---
 
