@@ -142,6 +142,9 @@ I share my thoughts here:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiswaK\&theme=transparent\&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=WaiswaK\&theme=transparent)
 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
+
 ---
 
 ## 🔗 Let's Connect
