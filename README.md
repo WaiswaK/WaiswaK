@@ -7,7 +7,7 @@ I am Kenneth Waiswa - Software Developer
 
 ## 🚀 About Me
 
-I build **full-stack and mobile applications** with a focus on solving real-world problems — from **rent management systems** to **e-commerce platforms** and **interactive portfolios**.
+I build **full-stack and mobile applications** with a focus on solving real-world problems 
 
 I enjoy working across the stack — backend systems, modern frontend UIs, and mobile apps.
 
