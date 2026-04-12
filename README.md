@@ -140,9 +140,6 @@ I share my thoughts here:
 ## 🌱 GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waiswak&show_icons=true&theme=radical)
 ---
 
 ## 🔗 Let's Connect
