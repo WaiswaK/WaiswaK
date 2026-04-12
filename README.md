@@ -141,6 +141,8 @@ I share my thoughts here:
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
 
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?waiswak" frameborder="0"></iframe>
 ---
 
 ## 🔗 Let's Connect
