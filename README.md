@@ -140,6 +140,8 @@ I share my thoughts here:
 ## 🌱 GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
 ---
 
 ## 📊 Most Used Languages
