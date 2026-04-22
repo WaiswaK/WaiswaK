@@ -144,10 +144,6 @@ I share my thoughts here:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
 ---
 
-## 📊 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
-
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/waiswak)
