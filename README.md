@@ -61,6 +61,7 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -147,6 +148,13 @@ I share my thoughts here:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=waiswak&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+
 
 ### 📈 Contribution Graph
 
