@@ -160,10 +160,6 @@ I share my thoughts here:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waiswak&label=Profile%20Views&color=db61a2&style=flat" alt="Profile Views" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
