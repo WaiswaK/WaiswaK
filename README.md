@@ -145,16 +145,24 @@ I share my thoughts here:
 
 ## 🌱 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiswak&theme=dark" alt="GitHub Streak" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=waiswak&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <a href="https://github.com/waiswak">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=waiswak&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" height="165" alt="Waiswa's GitHub Stats" />
+  </a>
+  <a href="https://github.com/waiswak">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="Top Languages" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=waiswak&theme=tokyonight&hide_border=true&background=00000000&ring=db61a2&fire=db61a2&currStreakLabel=db61a2" alt="GitHub Streak" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waiswak&label=Profile%20Views&color=db61a2&style=flat" alt="Profile Views" />
+</p>
 
 ### 📈 Contribution Graph
 
