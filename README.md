@@ -8,15 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=software%20developer%20%7C%20building%20cool%20things%20%3A);tech%2C%20code%2C%20coffee%20%3C3" alt="Typing headlines" />
 </p>
 
----
-
 ## 🚀 About Me
 
 I build **full-stack and mobile applications** with a focus on solving real-world problems 
 
 I enjoy working across the stack — backend systems, modern frontend UIs, and mobile apps.
-
----
 
 ## 🧑‍💻 Skills & Expertise
 
@@ -26,8 +22,6 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 * Full-stack web development
 * Mobile app development (Flutter, MAUI, SWIFT and Kotlin)
 * API design & database architecture
-
----
 
 ## 🔥 Tech Stack
 
@@ -41,7 +35,6 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 ![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge\&logo=swift\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 
----
 
 ### 📦 Frameworks & Libraries
 
@@ -53,7 +46,6 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
 
----
 
 ### 🗄️ Databases & ORM
 
@@ -63,7 +55,6 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 ![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
----
 
 ### ☁️ Tools & Platforms
 
@@ -112,7 +103,6 @@ These tools enable me to deliver production-ready applications with strong perfo
 * Features product management, order processing, and admin dashboard
 * Designed as a full-featured e-commerce solution with real-world transaction workflows, user authentication, and scalable architecture
 
----
 
 ## 🔥 Passions
 
@@ -121,7 +111,6 @@ These tools enable me to deliver production-ready applications with strong perfo
 * Exploring new technologies
 * Solving real-world problems with code
 
----
 
 ## 🤝 Collaborations
 
@@ -131,17 +120,6 @@ Open to collaborating on:
 * Full-stack applications
 * Mobile apps (Flutter / MAUI)
 * Backend systems (Node.js, APIs, databases)
-
----
-
-## 📖 Blog
-
-I share my thoughts here:
-
-
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?\&style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@waiswak)
-
----
 
 ## 🌱 GitHub Stats
 
@@ -171,6 +149,14 @@ I share my thoughts here:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+
+
+## 📖 Blog
+
+I share my thoughts here:
+
+
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?\&style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@waiswak)
 
 ## 🔗 Let's Connect
 
