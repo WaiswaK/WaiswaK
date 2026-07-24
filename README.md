@@ -3,6 +3,22 @@
 I am Kenneth Waiswa - Software Developer
 🌍 From Uganda
 
+
+
+
+<p align="center">
+  <a href="https://github.com/techwithgen">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Kenneth" alt="Hello! I&#39;m Kenneth" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=software%20developer%20%7C%20building%20cool%20things%20%3A);tech%2C%20code%2C%20coffee%20%3C3" alt="Typing headlines" />
+</p>
+
+
+
+
 ---
 
 ## 🚀 About Me
