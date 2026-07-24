@@ -1,11 +1,3 @@
-# Hi there. <img src="assets/wave.gif" width="40">
-
-I am Kenneth Waiswa - Software Developer
-🌍 From Uganda
-
-
-
-
 <p align="center">
   <a href="https://github.com/techwithgen">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Kenneth" alt="Hello! I&#39;m Kenneth" />
@@ -15,9 +7,6 @@ I am Kenneth Waiswa - Software Developer
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=software%20developer%20%7C%20building%20cool%20things%20%3A);tech%2C%20code%2C%20coffee%20%3C3" alt="Typing headlines" />
 </p>
-
-
-
 
 ---
 
@@ -159,6 +148,17 @@ I share my thoughts here:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiswak&layout=compact&theme=dark" alt="Top Languages" />
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=waiswak&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ## 🔗 Let's Connect
 
