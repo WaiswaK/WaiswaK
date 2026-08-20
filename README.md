@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/waiswak">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Kenneth" alt="Hello! I&#39;m Kenneth" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Kenneth" alt="Hello! I'm Kenneth" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I build **full-stack and mobile applications** with a focus on solving real-world problems 
+I build **full-stack and mobile applications** with a focus on solving real-world problems.
 
 I enjoy working across the stack — backend systems, modern frontend UIs, and mobile apps.
 
@@ -18,10 +18,10 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 ### 💼 Specializations
 
-* Microsoft Dynamics NAV / Business Central (CAL)
-* Full-stack web development
-* Mobile app development (Flutter, MAUI, SWIFT and Kotlin)
-* API design & database architecture
+- Microsoft Dynamics NAV / Business Central
+- Full-stack web development
+- Mobile application development
+- API design & database architecture
 
 ## 🔥 Tech Stack
 
@@ -35,26 +35,25 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 ![Swift](https://img.shields.io/badge/swift-F54A2A.svg?style=for-the-badge\&logo=swift\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 
-
 ### 📦 Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![MAUI](https://img.shields.io/badge/MAUI-0078D4?style=for-the-badge\&logo=xamarin\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-0078D4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 🗄️ Databases & ORM
-
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%23000F49.svg?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
+### 🗄️ Databases
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23000F49.svg?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ### ☁️ Tools & Platforms
 
@@ -66,14 +65,13 @@ I enjoy working across the stack — backend systems, modern frontend UIs, and m
 
 I leverage modern cloud and developer tools to streamline development, deployment, and scalability:
 
-* **Vercel** – Fast frontend deployment and serverless functions
-* **Azure DevOps** – CI/CD pipelines, version control, and agile workflows
-* **Cloudflare** – DNS management, security, and performance optimization
-* **Supabase** – Backend-as-a-service (auth, real-time APIs, PostgreSQL)
-* **Neon** – Serverless PostgreSQL for scalable and efficient databases
+- **Vercel** – Fast frontend deployment and serverless functions
+- **Azure DevOps** – CI/CD pipelines, version control, and agile workflows
+- **Cloudflare** – DNS management, security, and performance optimization
+- **Supabase** – Backend-as-a-service, authentication, real-time APIs, and PostgreSQL
+- **Neon** – Serverless PostgreSQL for scalable and efficient databases
 
 These tools enable me to deliver production-ready applications with strong performance, security, and scalability.
-
 
 ## 📂 Featured Projects
 
@@ -81,45 +79,43 @@ These tools enable me to deliver production-ready applications with strong perfo
 
 🔗 http://nnumba.runasp.net
 
-* Built with **C# & ASP.NET Core (.NET)**
-* Uses **Microsoft SQL Server (MSSQL)** for data management
-* Hosted on **MonsterASP.NET**
-* Manages tenants, payments, and property records
-* Designed for real-world rental operations
+- Built with **C# & ASP.NET Core (.NET)**
+- Uses **Microsoft SQL Server (MSSQL)** for data management
+- Hosted on **MonsterASP.NET**
+- Manages tenants, payments, and property records
+- Designed for real-world rental operations
 
 **Demo Access:**
 
-* Email: `demo@nnumba.dev`
-* Password: `Demo@123`
+- Email: `demo@nnumba.dev`
+- Password: `Demo@123`
 
 ### 🛒 BlingHaven – E-commerce Platform
 
 🔗 https://blinghavenug.vercel.app
 
-* Built with **React (Vite) + Node.js (Express)**
-* Uses **PostgreSQL** with **Prisma ORM** for efficient data management
-* Integrated **Flutterwave** for secure online payments
-* Fully deployed on **Vercel** (frontend & backend/serverless APIs)
-* Features product management, order processing, and admin dashboard
-* Designed as a full-featured e-commerce solution with real-world transaction workflows, user authentication, and scalable architecture
-
+- Built with **React (Vite) + Node.js (Express)**
+- Uses **PostgreSQL** with **Prisma ORM** for efficient data management
+- Integrated **Flutterwave** for secure online payments
+- Fully deployed on **Vercel** (frontend & backend/serverless APIs)
+- Features product management, order processing, and admin dashboard
+- Designed as a full-featured e-commerce solution with real-world transaction workflows, user authentication, and scalable architecture
 
 ## 🔥 Passions
 
-* Designing intuitive user experiences
-* Building scalable backend systems
-* Exploring new technologies
-* Solving real-world problems with code
-
+- Designing intuitive user experiences
+- Building scalable backend systems
+- Exploring new technologies
+- Solving real-world problems with code
 
 ## 🤝 Collaborations
 
 Open to collaborating on:
 
-* ASP.NET Core projects
-* Full-stack applications
-* Mobile apps (Flutter / MAUI)
-* Backend systems (Node.js, APIs, databases)
+- ASP.NET Core projects
+- Full-stack applications
+- Mobile apps (Flutter / .NET MAUI / Swift)
+- Backend systems (Node.js, APIs, databases)
 
 ## 🌱 GitHub Stats
 
@@ -150,11 +146,9 @@ Open to collaborating on:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-
 ## 📖 Blog
 
 I share my thoughts here:
-
 
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?\&style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@waiswak)
 
@@ -162,5 +156,6 @@ I share my thoughts here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/waiswak)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waiswak&label=Profile%20views&color=0e75b6&style=flat" alt="waiswak" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=waiswak&label=Profile%20views&color=0e75b6&style=flat" alt="waiswak" />
+</p>
