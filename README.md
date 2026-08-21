@@ -114,7 +114,7 @@ Open to collaborating on:
 
 - ASP.NET Core projects
 - Full-stack applications
-- Mobile apps (Flutter / .NET MAUI / Swift)
+- Mobile apps (Flutter / .NET MAUI / Swift / Kotlin)
 - Backend systems (Node.js, APIs, databases)
 
 ## 🌱 GitHub Stats
